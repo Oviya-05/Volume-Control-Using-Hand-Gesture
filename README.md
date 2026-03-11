@@ -1,4 +1,10 @@
 # AirVolume:Volume_Control_Using_Hand_Gesture
+
+**Team Members:** Muhammad Rashad, Oviya, Girija, Dhanush
+**Mentor:** Dr. D. Bhanu Prakash
+**Platform:** Infosys Springboard
+
+---
 Real-time system for touchless volume control. It utilizes MediaPipe and OpenCV to detect hand gestures (index-thumb distance) and maps the spatial relationship directly to system audio via pycaw. Provides an elegant, highly responsive alternative to physical controls.
 
 # Key Technologies Used

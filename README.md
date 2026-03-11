@@ -1,6 +1,6 @@
 # AirVolume:Volume_Control_Using_Hand_Gesture
 
-**Team Members:** Muhammad Rashad, Oviya, Girija, Dhanush
+**Team Members:** Oviya, Girija, Muhammad Rashad, Dhanush
 **Mentor:** Dr. D. Bhanu Prakash
 **Platform:** Infosys Springboard
 
